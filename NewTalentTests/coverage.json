@@ -1,0 +1,77 @@
+{
+  "NewTalent.dll": {
+    "C:\\Users\\mplsa\\Documents\\dio\\Desafios\\TesteTDD\\NewTalent\\Program.cs": {
+      "Program": {
+        "System.Void Program::<Main>$(System.String[])": {
+          "Lines": {
+            "2": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\mplsa\\Documents\\dio\\Desafios\\TesteTDD\\NewTalent\\Calculadora.cs": {
+      "NewTalent.Calculadora": {
+        "System.Int32 NewTalent.Calculadora::Somar(System.Int32,System.Int32)": {
+          "Lines": {
+            "20": 6,
+            "21": 6,
+            "22": 6,
+            "23": 6,
+            "24": 6
+          },
+          "Branches": []
+        },
+        "System.Int32 NewTalent.Calculadora::Subtrair(System.Int32,System.Int32)": {
+          "Lines": {
+            "26": 2,
+            "27": 2,
+            "28": 2,
+            "29": 2,
+            "30": 2
+          },
+          "Branches": []
+        },
+        "System.Int32 NewTalent.Calculadora::Multiplicar(System.Int32,System.Int32)": {
+          "Lines": {
+            "32": 2,
+            "33": 2,
+            "34": 2,
+            "35": 2,
+            "36": 2
+          },
+          "Branches": []
+        },
+        "System.Int32 NewTalent.Calculadora::Dividir(System.Int32,System.Int32)": {
+          "Lines": {
+            "38": 3,
+            "39": 3,
+            "40": 2,
+            "41": 2,
+            "42": 2
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<System.String> NewTalent.Calculadora::Historico()": {
+          "Lines": {
+            "44": 1,
+            "45": 1,
+            "46": 1,
+            "47": 1
+          },
+          "Branches": []
+        },
+        "System.Void NewTalent.Calculadora::.ctor(System.String)": {
+          "Lines": {
+            "13": 10,
+            "14": 10,
+            "15": 10,
+            "16": 10,
+            "17": 10
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
